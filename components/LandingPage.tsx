@@ -1,7 +1,6 @@
 "use client";
 
 import Image from "next/image";
-import Link from "next/link";
 import { useState } from "react";
 import Navbar from "./Navbar";
 import img1 from "../public/Group 65.png";
